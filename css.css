@@ -1,4 +1,26 @@
+
+.title-1{
+  text-align: center;
+  color: darkgreen;
+}
 body{
-  background-color: dimgray;
-  size: 100px;
+  background-color: gray;
+
+}
+.intro{
+  text-align: center;
+  text-justify: auto;
+}
+.image-1{
+  font-size: xx-small;
+}
+
+.title-2{
+  text-justify: auto;
+  text-align: center;
+  color: darkgreen;
+}
+.histoire{
+  text-align: center;
+  color: beige;
 }
