@@ -1,26 +1,63 @@
 
+html {
+  display: block;
+  height: auto;
+  width: auto;
+}
 .title-1{
+  font-size: 3rem;
   text-align: center;
-  color: darkgreen;
+  color: rgb(87, 174, 55);
 }
 body{
-  background-color: gray;
+  background-color: rgb(32, 32, 32);
 
 }
 .intro{
   text-align: center;
   text-justify: auto;
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
 }
 .image-1{
   font-size: xx-small;
+  text-align: center;
 }
 
 .title-2{
   text-justify: auto;
   text-align: center;
-  color: darkgreen;
+  color: rgb(87, 174, 55);
 }
 .histoire{
+  text-align: left;
+  color: rgb(255, 255, 255);
+  font-size: 1.5rem;
+}
+
+.imageZEvent{
+  font-size: small;
+}
+.vert {
+  color: rgb(87, 174, 55);
+}
+.text-center{
+  width: auto;
+  height: auto;
+  display: block;
+  position: static;
+  margin: 0 auto;
+  width: 1000px;
+  height: 100px;
+  color: rgb(255, 255, 255);
+  font-size: 1.5rem;
+}
+.title-3{
+
+  text-justify: auto;
   text-align: center;
-  color: beige;
+  color: rgb(255, 255, 255);
+}
+.table{
+  color: white;
 }
