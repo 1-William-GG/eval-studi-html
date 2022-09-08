@@ -4,13 +4,19 @@ html {
   height: auto;
   width: auto;
 }
+.colorszevent{
+  color: rgb(87, 174, 55)
+}
+.colorswhite{
+  color: white;
+}
 .title-1{
   font-size: 3rem;
   text-align: center;
   color: rgb(87, 174, 55);
 }
 body{
-  background-color: rgb(32, 32, 32);
+  background-color: #202020;
 
 }
 .intro{
@@ -64,7 +70,7 @@ body{
 .streamers{
   font-size: xx-large;
 }
- /* pb de positionnement de card div ??*/
+ 
 .cardstreamers{
  display: inline-block;
  flex-basis: auto;
@@ -74,3 +80,12 @@ body{
 .card-text{
   color: white;
 }
+ .para{
+  text-align: center;
+  font-size: 1.5rem;
+
+ }
+ .title-para{
+  text-align: center;
+  color: rgb(87, 174, 55);
+ }
