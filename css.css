@@ -5,7 +5,7 @@ html {
   width: auto;
 }
 .colorszevent{
-  color: rgb(87, 174, 55)
+  color: #57ae37
 }
 .colorswhite{
   color: white;
@@ -43,6 +43,8 @@ body{
 
 .imageZEvent{
   font-size: small;
+  margin-left: auto;
+  margin-right: auto;
 }
 .vert {
   color: rgb(87, 174, 55);
@@ -52,11 +54,13 @@ body{
   height: auto;
   display: block;
   position: static;
-  margin: 0 auto;
+  margin: auto;
   width: 1000px;
   height: 100px;
   color: rgb(255, 255, 255);
   font-size: 1.5rem;
+  text-align: center;
+  text-justify: auto;
 }
 .title-3{
 
@@ -81,7 +85,7 @@ body{
   color: white;
 }
  .para{
-  text-align: center;
+  text-align: left;
   font-size: 1.5rem;
 
  }
@@ -89,3 +93,29 @@ body{
   text-align: center;
   color: rgb(87, 174, 55);
  }
+ .title-interpara{
+  text-align: center;
+  color: rgb(87, 174, 55);
+ }
+ .card{
+   width: 150px;
+   height: 150px;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ .title-interparah2{
+  text-align: center;
+  color: rgb(255, 255, 255);
+ }
+.table{
+  margin-left: auto;
+  margin-right: auto;
+}
+.mobile-first{
+  text-align: center;
+  text-justify: auto;
+}
+
+@media screen and (max-width: 576px) {
+
+  }
