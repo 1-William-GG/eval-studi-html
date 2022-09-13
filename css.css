@@ -50,8 +50,6 @@ body{
   color: rgb(87, 174, 55);
 }
 .text-center{
-  width: auto;
-  height: auto;
   display: block;
   position: static;
   margin: auto;
